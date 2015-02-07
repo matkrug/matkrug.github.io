@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Всем привет!"
+date:   2015-02-07 14:50:47
+categories: jekyll update
+---
+Добро пожаловать в наш математический кружок! Мы занимаемся вот этим:
+
+* Изучаем математику - как основную школьную программу, так и "олимпиадные" вещи
+* Решаем сложные задачки и делимся решениями
+* Записываем видео и "пенкасты"
+
+Мы рады всем, кто готов участвовать в процессе!
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/E03cmIgB2u8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/UTk-rozoWsY" frameborder="0" allowfullscreen></iframe>
