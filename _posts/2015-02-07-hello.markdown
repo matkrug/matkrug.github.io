@@ -10,8 +10,10 @@ categories: jekyll update
 * Решаем сложные задачки и делимся решениями
 * Записываем видео и "пенкасты"
 
-Мы рады всем, кто готов участвовать в процессе!
+Вот пара наших видео с решениями олимпиадных задач.
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/E03cmIgB2u8" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/UTk-rozoWsY" frameborder="0" allowfullscreen></iframe>
+
+Мы рады всем, кто готов участвовать в процессе!

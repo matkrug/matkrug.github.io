@@ -2,7 +2,7 @@
 title: Математический Кружок
 email: noreply@nowhere.org
 description: > # this means to ignore newlines until "baseurl:"
-  Математический Кружок
+  Математический Кружок &copy; Эмиль
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://matkrug.com" # the base hostname & protocol for your site
