@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Всем привет!"
-date:   2015-02-07 14:50:47
-categories: jekyll update
+title:  "Множества, суммы и степени"
+date:   2015-02-14 09:52:00
+categories: math
 ---
-Добро пожаловать в наш математический кружок! Мы занимаемся вот этим:
+Вот еще несколько видео, которые мы записали.
 
-* Изучаем математику - как основную школьную программу, так и "олимпиадные" вещи
-* Решаем сложные задачки и делимся решениями
-* Записываем видео и "пенкасты"
+Вот тут мы обсуждаем множества:
 
-Вот пара наших видео с решениями олимпиадных задач.
+<iframe width="740" height="417" src="https://www.youtube.com/embed/CnsHzELiuwE" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="740" height="417" src="https://www.youtube.com/embed/E03cmIgB2u8" frameborder="0" allowfullscreen></iframe>
+Тут мы смотрим как считать большие суммы -- например сумму всех чисел от 1 до 10 или от 1 до 100.
 
-<iframe width="740" height="417" src="https://www.youtube.com/embed/UTk-rozoWsY" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="417" src="https://www.youtube.com/embed/nVZYDjpbrcQ" frameborder="0" allowfullscreen></iframe>
 
-Мы рады всем, кто готов участвовать в процессе!
+А вот тут -- рассказ про то что такое степень и что значит "в квадрате" или "в кубе":
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/68BYpDBqGao" frameborder="0" allowfullscreen></iframe>

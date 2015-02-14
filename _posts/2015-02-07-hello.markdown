@@ -2,7 +2,7 @@
 layout: post
 title:  "Всем привет!"
 date:   2015-02-07 14:50:47
-categories: jekyll update
+categories: math
 ---
 Добро пожаловать в наш математический кружок! Мы занимаемся вот этим:
 
