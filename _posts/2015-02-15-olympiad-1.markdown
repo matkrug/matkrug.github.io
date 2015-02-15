@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Еще олимпиадные задачки"
+date:   2015-02-15 09:52:00
+categories: math
+---
+Вот еще одно видео с решением олимпиадных задач по математике:
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/chMa_Pj_uqQ" frameborder="0" allowfullscreen></iframe>
