@@ -10,4 +10,4 @@ url: "http://matkrug.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
