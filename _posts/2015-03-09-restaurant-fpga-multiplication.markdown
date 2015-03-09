@@ -9,7 +9,7 @@ categories: math programming fpga
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/hu19_5e23qE" frameborder="0" allowfullscreen></iframe>
 
-А тут смотрим на то как программироваnm FPGA и пишем простую программу:
+А тут смотрим на то как программировать FPGA и пишем простую программу:
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/d8SzGEgEEZA" frameborder="0" allowfullscreen></iframe>
 
