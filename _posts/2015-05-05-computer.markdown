@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Олимпиадные Задачки и Устройство Компьютера"
+date:   2015-05-05 20:00:00
+categories: math computing
+---
+
+Учебный год медленно подходит к концу... а у нас снова несколько видео.
+
+Во-первых, записали решения задач по Математике из **олимпиады "Страна Талантов"**. Видео длится час, т.к. очень много задач!
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/bWAoQNDJms4" frameborder="0" allowfullscreen></iframe>
+
+Еще одно видео записали уже в классе - про **периметр и прощадь**:
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/6kO7Wz8Nl7M" frameborder="0" allowfullscreen></iframe>
+
+Ну и наконец видео про **устройство компьютера** и что к нему подключается:
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/zOrSGuDMNQ4" frameborder="0" allowfullscreen></iframe>
