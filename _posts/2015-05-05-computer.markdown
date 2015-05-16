@@ -18,3 +18,5 @@ categories: math computing
 Ну и наконец видео про **устройство компьютера** и что к нему подключается:
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/zOrSGuDMNQ4" frameborder="0" allowfullscreen></iframe>
+
+:-)
