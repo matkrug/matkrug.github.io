@@ -2,7 +2,7 @@
 layout: post
 title:  "Случайные Картинки"
 date:   2015-09-04 21:00:00
-categories: math computing graphics business
+categories: math graphics business
 ---
 
 Поздравляем всех с новым учебным годом!
