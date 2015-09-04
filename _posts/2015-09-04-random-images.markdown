@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Случайные Картинки"
 date:   2015-09-04 21:00:00
@@ -17,4 +17,4 @@ categories: math graphics business
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/c5ujBPMt0Qo" frameborder="0" allowfullscreen></iframe>
 
-Как только настроем генератор чтобы он снова генерил красивые картинки - сделаем магазин и галерею! :)
+Как только настроим генератор чтобы он снова генерил красивые картинки - сделаем магазин и галерею!
