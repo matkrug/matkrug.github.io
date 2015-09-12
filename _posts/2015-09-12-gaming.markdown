@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Компьютерные Игры"
+date:   2015-09-12 11:00:00
+categories: games
+---
+
+Слишком много сил уходят на домашние задания, так что мы решили расслабиться и поиграть в компьютерные игры.
+
+FTL:
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/sZZNfrK2vsA" frameborder="0" allowfullscreen></iframe>
+
+Do Not Starve (не умри с голоду):
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/y0Ym845GzHM" frameborder="0" allowfullscreen></iframe>
+
+FEZ:
+
+<iframe width="740" height="417" src="https://www.youtube.com/embed/9_Uk5iauKFc" frameborder="0" allowfullscreen></iframe>
+
+А вот одна из случайных картинок, которые мы используем для интерьерной печати:
+
+![печать на холсте интерьер]({{site.url}}/assets/3158577914_512x512.png)
