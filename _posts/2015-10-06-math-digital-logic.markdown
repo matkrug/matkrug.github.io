@@ -1,11 +1,11 @@
 ﻿---
 layout: post
 title:  "Математика и Цифровая Логика"
-date:   2015-10-06 11:00:00
-categories: math programming
+date:   2015-10-06 12:00:00
+categories: math logic programming
 ---
 
-Умножение в столбик. Первый раз пишем на внешнее звукозаписывающее устройство, поэтому только один канал. :|
+Умножение в столбик. Первый раз пишем на внешнее звукозаписывающее устройство, поэтому только один канал.
 
 <iframe width="740" height="417" src="https://www.youtube.com/embed/wbN1cr4nWt8" frameborder="0" allowfullscreen></iframe>
 
