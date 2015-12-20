@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  "Математика и Цифровая Логика"
+title: "Математика и Цифровая Логика"
 date:   2015-10-06 12:00:00
 categories: math logic programming
 ---
