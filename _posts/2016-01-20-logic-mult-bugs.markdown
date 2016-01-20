@@ -12,3 +12,5 @@ categories: logic programming
 А вот тут - пишем программу для поиска решений игры Деловые Жуки:
 
 <iframe width="740" height="417" src="http://www.youtube.com/watch?v=2l1VFCycpC0" frameborder="0" allowfullscreen></iframe>
+
+ 
