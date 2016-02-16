@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Логика и Программирование"
 date:   2016-01-20 12:00:00
@@ -13,4 +13,4 @@ categories: logic programming
 
 <iframe width="740" height="417" src="http://www.youtube.com/watch?v=2l1VFCycpC0" frameborder="0" allowfullscreen></iframe>
 
- 
+В последнее время, посты у нас публикуются с ошибками, почему-то. Чиним по мере возможности.
