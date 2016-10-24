@@ -1,17 +1,16 @@
----
+﻿---
 layout: post
 comments: true
 title: "Велосипед, Panic Lab, FPGA"
-date: 2016-10-20 12:00:00
+date:   2016-10-20 12:00:00
 categories: programming bike fpga video
 ---
-
 
 Рассказ про устройство велосипеда:
 
 <iframe width="740" height="417" src="http://www.youtube.com/embed/61NGuoGBYTs" frameborder="0" allowfullscreen></iframe>
 
-Вот тут Эм рассказывает про игру "Паника в Лаборатории" (Panic Lab):
+Вот тут Эм рассказывает про игру "Паника в Лаборатории" (<a href="https://boardgamegeek.com/boardgame/121073/panic-lab">Panic Lab</a>):
 
 <iframe width="740" height="417" src="http://www.youtube.com/embed/HbD9wWfrczM" frameborder="0" allowfullscreen></iframe>
 
