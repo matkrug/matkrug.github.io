@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 comments: true
 title: "Велосипед, Panic Lab, FPGA"
